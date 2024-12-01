@@ -1,6 +1,6 @@
 body{
     background-color: hsl(30, 54%, 90%);
-    min-height: 150vh;
+    min-height: 200vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
